@@ -12,6 +12,7 @@
 		비밀번호 : <input type="text" name="mpw"><br><br>
 		이름 : <input type="text" name="mname"><br><br>
 		이메일 : <input type="text" name="memail"><br><br>
+		생일 : <input type="date" name="mbirth"><br><br>
 		<input type="submit" name="회원가입">
 	</form>
 
